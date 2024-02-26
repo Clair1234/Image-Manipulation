@@ -46,4 +46,7 @@ You will then be prompted for transformation on the picture :
 * Do a total mirror
 
 >[!IMPORTANT]
->Each file that results of the transformation will be named : image_out.jpeg and will be wiped out at each transformation so if you want to keep the image please download it before moving to the next transformation
+>Each file that results of the transformation will be named : image_out.jpeg
+
+>[!IMPORTANT]
+> Each file will be wiped out at each transformation so if you want to keep the image please download it before moving to the next transformation
