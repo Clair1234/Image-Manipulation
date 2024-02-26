@@ -19,7 +19,8 @@ cd project
 If you are on VS Code run (Ctrl+Alt+N)
 
 ### Description
-You have to put the image you want to manipulate in the same folder as the program
+>[!NOTE]
+>You have to put the image you want to manipulate in the same folder as the program
 
 You will first be prompted the name of the image, here the image by default is : image.jpeg
 You will get information on :
@@ -43,4 +44,6 @@ You will then be prompted for transformation on the picture :
 * Do a horizontal mirror
 * Do a vertical mirror
 * Do a total mirror
-Each file that results of the transformation will be named : image_out.jpeg and will be wiped out at each transformation so if you want to keep the image please download it before moving to the next transformation
+
+>[!IMPORTANT]
+>Each file that results of the transformation will be named : image_out.jpeg and will be wiped out at each transformation so if you want to keep the image please download it before moving to the next transformation
