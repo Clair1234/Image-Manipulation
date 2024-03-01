@@ -1,9 +1,3 @@
-/*#include<stdio.h>
-#include "image.h"
-#include "features.h"
-#include "utils.h"
-#include "argsparse.h"*/
-
 typedef struct _pixelRGB {
   unsigned char R ;
   unsigned char G ;
